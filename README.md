@@ -76,6 +76,12 @@ and the name as (depending on your mood):
 Just working with Git Pro book
 Currently in Chapter 2.4
 
+<<<<<<< HEAD
 Made change for main branch
 
 Added change for branch hotfix
+=======
+Testing branch book
+
+Now add one more change for branch book
+>>>>>>> book
