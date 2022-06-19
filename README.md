@@ -77,3 +77,5 @@ Just working with Git Pro book
 Currently in Chapter 2.4
 
 Made change for main branch
+
+Added change for branch hotfix
